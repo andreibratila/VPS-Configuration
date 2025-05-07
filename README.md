@@ -1,4 +1,4 @@
-# VPS-Configuration
+# VPS With Reverse-Proxy (NGINX)
 
 - [Server Preparation](.server-preparation.md)
 - [Nginx Configuration](.nginx-first-configuration.md) 
